@@ -37,3 +37,4 @@ cloneCore(){
     fi
     done < /tmp/corerepos.txt
 }
+cloneCore
