@@ -1,0 +1,4 @@
+https://github.com/HomeCI/core_jenkins.git
+https://github.com/HomeCI/core_portainer.git
+https://github.com/HomeCI/core_authentik.git
+https://github.com/HomeCI/core_npm.git
